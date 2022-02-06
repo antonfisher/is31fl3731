@@ -1,4 +1,4 @@
-# is31fl3731
+# IS31FL3731
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/antonfisher/is31fl3731)](https://goreportcard.com/report/github.com/antonfisher/is31fl3731)
 [![GoDoc](https://godoc.org/github.com/antonfisher/is31fl3731?status.svg)](https://godoc.org/github.com/antonfisher/is31fl3731)
