@@ -43,7 +43,8 @@ package main
 import (
   "time"
   "machine"
-  is31fl3731 "github.com/antonfisher/go-is31fl3731"
+
+  "github.com/antonfisher/is31fl3731"
 )
 
 // I2CAddress -- address of led matrix
