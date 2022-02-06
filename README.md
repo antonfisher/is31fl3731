@@ -1,7 +1,7 @@
 # IS31FL3731
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/antonfisher/is31fl3731)](https://goreportcard.com/report/github.com/antonfisher/is31fl3731)
 [![GoDoc](https://godoc.org/github.com/antonfisher/is31fl3731?status.svg)](https://godoc.org/github.com/antonfisher/is31fl3731)
+[![Go Report Card](https://goreportcard.com/badge/github.com/antonfisher/is31fl3731)](https://goreportcard.com/report/github.com/antonfisher/is31fl3731)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-green.svg)](https://conventionalcommits.org)
 
 Go/TinyGo driver for Lumissil IS31FL3731 matrix LED driver.
