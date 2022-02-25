@@ -8,9 +8,9 @@ Go/TinyGo driver for Lumissil IS31FL3731 matrix LED driver.
 
 [PR to include this driver to the official TinyGo driver list](https://github.com/tinygo-org/drivers/pull/370)
 
-<center>
+<p align="center">
     <img alt="photo of charliewing board" src="https://raw.githubusercontent.com/antonfisher/is31fl3731/docs/images/charliewing-1.jpg">
-</center>
+</p>
 
 ## What's implemented
 - picture mode ("auto frame play mode" and "audio frame play mode" are not
